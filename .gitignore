@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.idea
+
+config.py
+tags.txt
+test.py
+test_2.py
+GoogleSheet/credentials.json
+GoogleSheet/token.pickle
+DataBase/database.db
+DataBase/dump_database.db
+parsing/OnlyFinder.py
+parsing/Instaloader.py
+parsing/InstagramScraper.py
+parsing/tmp_file/
+parsing/settings
+archive/
+logs/
+logs_during_working
+extra_function/create_instagram.py
+parsing/dump_devices.pkl
